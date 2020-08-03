@@ -1,3 +1,4 @@
+<pre>
 # MIPS-SIMULATOR
 it reads and executes assembly language programs
 
@@ -5,7 +6,7 @@ used - c++
 
 implemented in three phases-
 
-<pre>
+
 phase 1 -  A simple c++ program which reads an assembly file and execute instruction one-by-one<br />
            and at the end show resisters, there's values and data memory.
            
