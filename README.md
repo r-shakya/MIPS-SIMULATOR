@@ -1,6 +1,6 @@
 
 # MIPS-SIMULATOR
-it reads and executes assembly language programs
+it reads and executes assembly language programs------>Project of Computer Organization
 
 <pre>
 used - c++
