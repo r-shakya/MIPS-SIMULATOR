@@ -11,7 +11,8 @@ phase 1 -  A simple c++ program which reads an assembly file and execute instruc
            and at the end show resisters, there's values and data memory.
            
 phase 2 -  Modified version of phase 1 where we use pipeline processing in five steps<br />
-           Instruction fetch(IF),instruction decode(ID),instruction execute(EX),Memory access(M),Write back(WB)<br />
+           Instruction fetch(IF),instruction decode(ID),instruction execute(EX),
+           Memory access(M),Write back(WB)<br />
            and at the end show resisters, there's values and data memory.
            
 phase 3 -  Modified version of phase 2 where we use cache(fully associative)<br />
